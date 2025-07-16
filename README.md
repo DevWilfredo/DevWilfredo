@@ -42,11 +42,7 @@
 ## Las estadisticas del repositorio
 ![Condor Coders' GitHub stats](https://github-readme-stats.vercel.app/api?username=DevWilfredo&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWilfredo&layout=compact&theme=dark)
 
-<br/>  
-
-
-## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=DevWilfredo&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<br/>
 
 <br/>
 
